@@ -1,8 +1,6 @@
-### Hi there
-#### I'm Seyyed Morteza Razavi.
-
-- I’m currently working on [Car Alarm](https://github.com/SMR76/Car_Alarm) project and writing [QCPC](https://github.com/QCPC) docs.
-- I’m currently learning ARM micro controller programming.
-- How to reach me:
-  <br>you can send your email to [me](mailto:seyyedmortezarazavi76@gmail.com).
-  <br>also you can find out other ways to contact me in [my GitHub Webpage](https://smr76.github.io/).
+**Hello, my name is SMR.**<br>
+**I'm a QML/C++ programmer.**
+- I'm presently working on the [Knight Pen](https://github.com/SMR76/knight-pen) and [Car Alarm](https://github.com/SMR76/Car_Alarm) projects.
+- I'd want to learn how to program an ARM microcontroller.
+- You may contact me by sending an [email](mailto:seyyedmortezarazavi76@gmail.com).
+- You may also find alternative methods to reach me on my [GitHub page](https://smr76.github.io).
