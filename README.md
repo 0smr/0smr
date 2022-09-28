@@ -19,7 +19,8 @@ Glitch <sub>(soon)</sub><br>
 <a href="https://github.com/SMR76/qloudy">
 <img src="logo/qloudy.svg" width="23px"> Qloudy</a>,
 <a href="https://github.com/SMR76/cardian">Cardian</a>,<br>
-<a href="https://github.com/SMR76/icon-manager">Icon Manager</a><br>
+<a href="https://github.com/SMR76/icon-manager">
+<img src="logo/icon-manager.svg" width="23px"> Icon Manager</a><br>
 <sup>(This repository is developed in order to be used as a submodule)</sup>
 <br><br>
 <sup>Web stuff</sup><br>
