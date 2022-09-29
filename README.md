@@ -36,6 +36,6 @@ Instagram page, I've collected some of my works.
 <h3>Contact Me</h3>
 If you want to contact me, you may send me an Email or a Telegram message.<br>
 <a href="mailto:seyyedmortezarazavi76@gmail.com">Gmail</a>,
-<a href="tg://resolve?domain=S_M_R0">Telegram</a>,
+<a href="s_m_r0.t.me">Telegram</a>,
 <a href="https://smr76.github.io#contactMe">etc</a>.
 </div>
