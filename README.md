@@ -9,19 +9,21 @@ There aren't that many right now, but I'm attempting to impalement more of them.
 <a href="https://github.com/SMR76/qml-neumorphism">Neumorphism</a>,
 <a href="https://github.com/SMR76/qml-snow-white">Snow White</a>,
 <a href="https://github.com/SMR76/qooey">Qooey</a>,
-Qube <sub>(soon)</sub>,
-Glitch <sub>(soon)</sub><br>
+<a href="https://github.com/SMR76/qube">Qube</a>,
+<a href="https://github.com/SMR76/glitch">Glitch</a><br>
 <sub>(This is a list of almost everything I've done so far)</sub>
 <br><br>
 <sup>Applications</sup><br>
-<a href="https://github.com/SMR76/qml-snow-white">
+<a href="https://github.com/SMR76/knight-pen">
 <img src="logo/knight-pen.svg" width="18px"> Knight Pen</a>,
 <a href="https://github.com/SMR76/qloudy">
 <img src="logo/qloudy.svg" width="23px"> Qloudy</a>,
-<a href="https://github.com/SMR76/cardian">Cardian</a>,<br>
+<a href="https://github.com/SMR76/cardian">Cardian</a>,<br><br>
+<sup>Helpers</sup><br>
 <a href="https://github.com/SMR76/icon-manager">
-<img src="logo/icon-manager.svg" width="23px"> Icon Manager</a><br>
-<sup>(This repository is developed in order to be used as a submodule)</sup>
+<img src="logo/icon-manager.svg" width="23px"> Icon Manager</a>,
+<a href="https://github.com/SMR76/qomponent">Qomponent</a><br>
+<sup>(these repositories are only intended to be used as submodules)</sup>
 <br><br>
 <sup>Web stuff</sup><br>
 <a href="https://smr76.github.io">SMR76.Github.io</a>,
