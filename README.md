@@ -10,7 +10,8 @@ There aren't that many right now, but I'm attempting to impalement more of them.
 <a href="https://github.com/SMR76/qml-snow-white">Snow White</a>,
 <a href="https://github.com/SMR76/qooey">Qooey</a>,
 <a href="https://github.com/SMR76/qube">Qube</a>,
-<a href="https://github.com/SMR76/glitch">Glitch</a><br>
+<a href="https://github.com/SMR76/glitch">Glitch</a>,
+<a href="https://github.com/SMR76/hive">Hive</a><br>
 <sub>(This is a list of almost everything I've done so far)</sub>
 <br><br>
 <sup>Applications</sup><br>
