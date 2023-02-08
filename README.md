@@ -22,7 +22,8 @@ There aren't that many right now, but I'm attempting to impalement more of them.
 <sup>Helpers</sup><br>
 <a href="https://github.com/SMR76/icon-manager">
 <img src="logo/icon-manager.svg" width="23px"> Icon Manager</a>,
-<a href="https://github.com/SMR76/qomponent">Qomponent</a><br>
+<a href="https://github.com/SMR76/qomponent">Qomponent</a>,
+<a href="https://github.com/SMR76/veqtor">Veqtor</a><br>
 <sup>(these repositories are only intended to be used as submodules)</sup>
 <br><br>
 <sup>Web stuff</sup><br>
@@ -34,7 +35,7 @@ There aren't that many right now, but I'm attempting to impalement more of them.
 I wouldn't call myself a designer, but I have created few designs.<br>
 On <a href="https://www.instagram.com/one.red.little.fish">this</a>
 Instagram page, I've collected some of my works.
-<br><br>
+<img src="logo/sleeping-fox.svg">
 <h3>Contact Me</h3>
 If you want to contact me, you may send me an Email or a Telegram message.<br>
 <a href="mailto:seyyedmortezarazavi76@gmail.com">Gmail</a>,
