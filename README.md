@@ -6,31 +6,31 @@
 I'm working on a collection of various QML styles,
 most of which make use of OpenGL Shaders.
 There aren't that many right now, but I'm attempting to impalement more of them.<br>
-<a href="https://github.com/SMR76/qml-neumorphism">Neumorphism</a>,
-<a href="https://github.com/SMR76/qml-snow-white">Snow White</a>,
-<a href="https://github.com/SMR76/qooey">Qooey</a>,
-<a href="https://github.com/SMR76/qube">Qube</a>,
-<a href="https://github.com/SMR76/glitch">Glitch</a>,
-<a href="https://github.com/SMR76/hive">Hive</a><br>
+<a href="https://github.com/0smr/qml-neumorphism">Neumorphism</a>,
+<a href="https://github.com/0smr/qml-snow-white">Snow White</a>,
+<a href="https://github.com/0smr/qooey">Qooey</a>,
+<a href="https://github.com/0smr/qube">Qube</a>,
+<a href="https://github.com/0smr/glitch">Glitch</a>,
+<a href="https://github.com/0smr/hive">Hive</a><br>
 <sub>(This is a list of almost everything I've done so far)</sub>
 <br><br>
 <sup>Applications</sup><br>
-<a href="https://github.com/SMR76/knight-pen">
+<a href="https://github.com/0smr/knight-pen">
 <img src="logo/knight-pen.svg" width="18px"> Knight Pen</a>,
-<a href="https://github.com/SMR76/qloudy">
+<a href="https://github.com/0smr/qloudy">
 <img src="logo/qloudy.svg" width="23px"> Qloudy</a>,
-<a href="https://github.com/SMR76/cardian">Cardian</a>,<br><br>
+<a href="https://github.com/0smr/cardian">Cardian</a>,<br><br>
 <sup>Helpers</sup><br>
-<a href="https://github.com/SMR76/icon-manager">
+<a href="https://github.com/0smr/icon-manager">
 <img src="logo/icon-manager.svg" width="23px"> Icon Manager</a>,
-<a href="https://github.com/SMR76/qomponent">Qomponent</a>,
-<a href="https://github.com/SMR76/veqtor">Veqtor</a><br>
+<a href="https://github.com/0smr/qomponent">Qomponent</a>,
+<a href="https://github.com/0smr/veqtor">Veqtor</a><br>
 <sup>(these repositories are only intended to be used as submodules)</sup>
 <br><br>
 <sup>Web stuff</sup><br>
-<a href="https://smr76.github.io">SMR76.Github.io</a>,
+<a href="https://0smr.github.io">0smr.github.io</a>,
 <a href="https://qcpc.github.io">QCPC.Github.io</a>,
-<a href="https://github.com/SMR76/smr-wp-plugin">WordPress plugin</a>
+<a href="https://github.com/0smr/smr-wp-plugin">WordPress plugin</a>
 <br><br>
 <sup>Design Story</sup><br>
 I wouldn't call myself a designer, but I have created few designs.<br>
@@ -41,5 +41,5 @@ Instagram page, I've collected some of my works.
 If you want to contact me, you may send me an Email or a Telegram message.<br>
 <a href="mailto:seyyedmortezarazavi76@gmail.com">Gmail</a>,
 <a href="s_m_r0.t.me">Telegram</a>,
-<a href="https://smr76.github.io#contactMe">etc</a>.
+<a href="https://0smr.github.io#contactMe">etc</a>.
 </div>
