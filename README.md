@@ -19,7 +19,8 @@ There aren't that many right now, but I'm attempting to impalement more of them.
 <img src="logo/knight-pen.svg" width="18px"> Knight Pen</a>,
 <a href="https://github.com/0smr/qloudy">
 <img src="logo/qloudy.svg" width="23px"> Qloudy</a>,
-<a href="https://github.com/0smr/cardian">Cardian</a>,<br><br>
+<a href="https://github.com/0smr/cardian">
+<img src="logo/cardian.svg" width="20px"> Cardian</a>,<br><br>
 <sup>Helpers</sup><br>
 <a href="https://github.com/0smr/icon-manager">
 <img src="logo/icon-manager.svg" width="23px"> Icon Manager</a>,
@@ -29,8 +30,7 @@ There aren't that many right now, but I'm attempting to impalement more of them.
 <br><br>
 <sup>Web stuff</sup><br>
 <a href="https://0smr.github.io">0smr.github.io</a>,
-<a href="https://qcpc.github.io">QCPC.Github.io</a>,
-<a href="https://github.com/0smr/smr-wp-plugin">WordPress plugin</a>
+<a href="https://qcpc.github.io">qcpc.github.io</a>
 <br><br>
 <sup>Design Story</sup><br>
 I wouldn't call myself a designer, but I have created few designs.<br>
