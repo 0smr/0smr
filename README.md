@@ -6,8 +6,8 @@
 I'm working on a collection of various QML styles,
 most of which make use of OpenGL Shaders.
 There aren't that many right now, but I'm attempting to impalement more of them.<br>
-<a href="https://github.com/0smr/qml-neumorphism">Neumorphism</a>,
-<a href="https://github.com/0smr/qml-snow-white">Snow White</a>,
+<a href="https://github.com/0smr/neumorphism">Neumorphism</a>,
+<a href="https://github.com/0smr/snow-white">Snow White</a>,
 <a href="https://github.com/0smr/qooey">Qooey</a>,
 <a href="https://github.com/0smr/qube">Qube</a>,
 <a href="https://github.com/0smr/glitch">Glitch</a>,
