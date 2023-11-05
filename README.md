@@ -19,7 +19,7 @@ There aren't that many right now, but I'm attempting to impalement more of them.
 <img src="logo/knight-pen.svg" width="18px"> Knight Pen</a>,
 <a href="https://github.com/0smr/qloudy">
 <img src="logo/qloudy.svg" width="23px"> Qloudy</a>,
-<a href="https://github.com/0smr/cardian">
+<a href="https://github.com/cardianco/cardian">
 <img src="logo/cardian.svg" width="20px"> Cardian</a>,<br><br>
 <sup>Helpers</sup><br>
 <a href="https://github.com/0smr/icon-manager">
