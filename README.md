@@ -39,7 +39,7 @@ Instagram page, I've collected some of my works.
 <img src="logo/sleeping-fox.svg">
 <h3>Contact Me</h3>
 If you want to contact me, you may send me an Email or a Telegram message.<br>
-<a href="mailto:seyyedmortezarazavi76@gmail.com">Gmail</a>,
+<a href="mailto:97smr0@gmail.com">Gmail</a>,
 <a href="s_m_r0.t.me">Telegram</a>,
 <a href="https://0smr.github.io#contactMe">etc</a>.
 </div>
