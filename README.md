@@ -50,6 +50,6 @@ You can find some of my work on
 <h3>Contact Me</h3>
 Feel free to reach out via email or Telegram:
 <a href="mailto:97smr0@gmail.com">Gmail</a>,
-<a href="s_m_r0.t.me">Telegram</a>,
+<a href="https://s_m_r0.t.me">Telegram</a>,
 <a href="https://0smr.github.io#contactMe">or here</a>.
 </div>
